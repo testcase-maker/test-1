@@ -7,7 +7,7 @@ by ITVDN[https://itvdn.com/]
 
 # Plan of courses:
 
-#### 1.Introduction to python
+### 1.Introduction to python
 
 ### 2.Variables and data types
 
@@ -24,5 +24,5 @@ by ITVDN[https://itvdn.com/]
 ### 8.PEP8
 
 
-> Repositiries includes my homework
+> Repositories includes my homework
 > From this course
