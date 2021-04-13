@@ -1,9 +1,9 @@
 # Courses Python starter
 FINISHED
-[![D|Oleksii](https://images.app.goo.gl/RzybhK1r7yCfG9Sc7)
+[![D|Oleksii]](https://images.app.goo.gl/RzybhK1r7yCfG9Sc7)
 
 Oleksii Dumenko has finished courses Python starter
-by ITVDN[https://itvdn.com/]
+by [ITVDN](https://itvdn.com/)
 
 # Plan of courses:
 
